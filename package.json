@@ -1,0 +1,15 @@
+{
+  "name": "learnjestmock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "dependencies": {
+    "jest": "^24.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Quan",
+  "license": "ISC"
+}
